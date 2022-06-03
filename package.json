@@ -1,0 +1,30 @@
+{
+  "name": "atividade9-academy-amanda-rodrigues",
+  "version": "1.0.0",
+  "description": "Atividade 9 - Appium - Raro Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio run wdio.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aar-amanda/atividade9-academy-AMANDA-RODRIGUES.git"
+  },
+  "author": "Amanda Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aar-amanda/atividade9-academy-AMANDA-RODRIGUES/issues"
+  },
+  "homepage": "https://github.com/aar-amanda/atividade9-academy-AMANDA-RODRIGUES#readme",
+  "devDependencies": {
+    "@wdio/appium-service": "^7.19.5",
+    "@wdio/cli": "^7.19.7",
+    "@wdio/local-runner": "^7.19.7",
+    "@wdio/mocha-framework": "^7.19.7",
+    "@wdio/spec-reporter": "^7.19.7",
+    "appium": "^1.22.3",
+    "wdio-wait-for": "^2.2.6"
+}
+}
+
+
